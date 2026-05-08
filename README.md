@@ -138,7 +138,7 @@ Eksempel:
 
 ```json
 {
-  "message": "Sten sælges for lav pris: 1 pose (1g) 600.",
+  "message": "Isbjærn sælges for lav pris.",
   "chat_ids": [-1001234567890, -1002222222222]
 }
 ```
